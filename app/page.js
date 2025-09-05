@@ -16,7 +16,7 @@ export default function Home() {
               From burden to bullet.
             </h3>
             <p className="flex-col text-2xl text-center">
-              Giving power back to victims of intimate partner violence <br />
+              Giving power back to victims of intimate partner violence<br />
               by turning silent suffering into vocal vindication
             </p>
           </div>
@@ -29,7 +29,7 @@ export default function Home() {
             Intimate Partner Violence.
           </p>
           <p className="flex flex-col text-xl font-medium text-center">
-            These all affect 1 in 8 people.* Who's talking about IPV?
+            These all affect 1 in 8 people. Who is talking about IPV?
           </p>
           <Link
             href="/learn"
